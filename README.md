@@ -1,9 +1,8 @@
-<a href="https://github.com/sepehrgithub" target="_blank" align="center">
-  <img src="https://s2.uupload.ir/files/image_(3)_3k2x.png" border="0" alt="Arctic Coco" />
+
 </a>
 <br />
 <br />
-<p align="center"> Sup :) I'm <b> Arctic Coco <b>! Iranian <b> Front & Back end  developer, Hardware designer</b> and <b> Technology </b> lover. </p>
+<p align="center"> Hey :) I'm <b> Neuroxil <b>! Iranian <b> Front & Back end  developer, Hardware enthusiast</b>. </p>
 <div align="center">
   <h1> Contact Me :D</h1>
   </a>
