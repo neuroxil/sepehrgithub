@@ -1,15 +1,12 @@
-
-</a>
-<br />
 <br />
 <p align="center"> Hey :) I'm <b> Neuroxil <b>! Iranian <b> Front & Back end  developer, Hardware enthusiast</b>. </p>
 <div align="center">
   <h1> Contact Me :D</h1>
   </a>
-  <a href="https://www.reddit.com/user/arcticcoco">
+  <a href="https://www.reddit.com/user/Ill-Night-4774/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
-  <a href="https://discord.gg/g3uAWpc4Us">
+  <a href="https://discord.com/channels/@n_spi">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto: sisop.tech@gmail.com">  
@@ -127,11 +124,6 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <h1>
-    Devices
-  </h1>
-    <img src="https://cdn-icons-png.flaticon.com/512/882/882744.png" />
-	<img src="https://cdn-icons-png.flaticon.com/512/882/882731.png" />
-  <h1>
     Operating Systems
   </h1>
   <a href="https://archlinux.org/">
@@ -153,13 +145,13 @@
     <img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a>
 </div>
-<a href="https://github.com/sepehrgithub/">
+<a href="https://github.com/neuroxil/">
   <img src="https://github-readme-stats.vercel.app/api?username=sepehrgithub&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/sepehrgithub/">
+<a href="https://github.com/neuroxil/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sepehrgithub&theme=radical" />
 </a>
 <br />
-<a href="https://github.com/sepehrgithub/">
+<a href="https://github.com/neuroxil/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrgithub&layout=compact&theme=radical" />
 </a>
