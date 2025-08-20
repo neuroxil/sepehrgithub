@@ -144,6 +144,10 @@
   <a href="https://www.microsoft.com/en-us/software-download/windows10">
     <img src="https://img.shields.io/badge/Windows%2010-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   </a>
+  </a>
+  <a href="https://www.microsoft.com/en-us/software-download/windows11">
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
+  </a>
 </div>
 <a href="https://github.com/neuroxil/">
   <img src="https://github-readme-stats.vercel.app/api?username=sepehrgithub&show_icons=true&theme=radical" />
